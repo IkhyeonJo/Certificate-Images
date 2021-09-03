@@ -22,11 +22,3 @@
 
 ### 장학금 ###
 ![장학금](https://user-images.githubusercontent.com/20404991/132025535-e5ec82f3-1b49-42e3-b0a0-1bd3ff689261.jpg)
-
-# 추천서
-
-### 우수인재추천서-총장 ###
-![우수인재추천서-총장](https://user-images.githubusercontent.com/20404991/132025619-1438d82a-1af4-425a-89ab-201178149acd.jpg)
-
-### 학과장추천서-도교수 ###
-![학과장추천서-도교수](https://user-images.githubusercontent.com/20404991/132025654-bd9b818e-5abd-4618-b8ef-58615c4c6c86.jpg)
