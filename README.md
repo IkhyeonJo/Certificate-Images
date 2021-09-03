@@ -14,7 +14,7 @@
 ### FEST-Diploma-2017-2018 ###
 ![FEST-Diploma-2017-2018](https://user-images.githubusercontent.com/20404991/132025459-80a62678-96e3-4651-a821-cd4d2ae37a5c.jpg)
 
-### 경진대회 ###
+### 경진대회 (http://news.unn.net/news/articleView.html?idxno=191412) ###
 ![경진대회](https://user-images.githubusercontent.com/20404991/132025489-bccd8d9f-554c-4c1d-a559-daff79a36898.jpg)
 
 ### 자료실우수이용자상-총장 ###
